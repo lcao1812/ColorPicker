@@ -1,0 +1,12 @@
+.Footer {
+	height: 5vh;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: bold;
+	padding: 0 1rem;
+}
+
+.Footer-emoji {
+	font-size: 2rem;
+}
